@@ -1,5 +1,5 @@
 /**
- * A JavaScript libarary of security functions
+ * A JavaScript library of security functions
  *
  * - md5()
  * - sha1()
